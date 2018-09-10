@@ -1,4 +1,4 @@
-# ProductAnalyticsInternshipChallengeSeptember2018
+# Product Analytics Internship Challenge - September 2018
 
 In this code challenge you should create a 2 way SMS app that can be accessed on the Sandbox. The 2 Way SMS App should allow users to send an SMS from their simulator to your short code, and get a simple reply.
 
