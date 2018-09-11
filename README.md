@@ -1,4 +1,6 @@
 # Product Analytics Internship Challenge - September 2018
+
+## This challenge is due at 1800 HRS EAT on 12th September 2018
 													
 AT has a range of technology products that we offer to our clients. These respective products (Bulk SMS, Premium SMS, Payments and USSD) generate revenue for the organization via customer subscriptions to use our products.													
 Here's is a simulated dataset for this exercise. Note: This is NOT actual data but simulated one. 													
@@ -28,3 +30,5 @@ Here's a link to the document: https://goo.gl/sLPsAo
 
 ## Get Support from the Africa's Talking Slack
 In case you have any questions, join our Slack [here](https://slackin-africastalking.now.sh/)
+
+## Submissions given later than 1800 HRS EAT on 12th September 2018 will not be considered
